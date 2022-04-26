@@ -14,4 +14,13 @@
 export default {};
 </script>
 
-<style></style>
+<style lang="scss">
+.green-shop {
+  background-color: aquamarine;
+  height: 350px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+</style>
